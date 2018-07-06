@@ -1,0 +1,11 @@
+Monitor,Screen,Device,Sales,Commission
+1,2,ParaNumError
+1,2,3,4,ParaNumError
+??,2,3,ValueError
+hello,2,3,ValueError
+hello,world,!,ValueError
+1,40,45,3250,650.0
+2,39,44,3200,640.0
+34,39,45,4045,809.0
+69,40,46,4995,999.0
+70,42,45,5035,1007.0
